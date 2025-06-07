@@ -400,12 +400,12 @@ p {
     padding-right: 0px;
     padding-bottom: 10px;
     padding-left: 0px;
-    width: 100%;
-    max-width: 100%;
+    width: 80%;
+    max-width: 80%;
   }
 
   .mainImg {
-    width: 100%;
+    width: 80%;
   }
 
   .responsive-container-block.bigContainer {
@@ -436,7 +436,7 @@ p {
     padding-right: 0px;
     padding-bottom: 0px;
     padding-left: 0px;
-    width: 100%;
+    width: 80%;
   }
 
 
