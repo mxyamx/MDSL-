@@ -24,11 +24,11 @@
 }
 
 .dropdown .dropbtn {
-  font-size: 16px;  
+  font-size: 25px;  
   border: none;
   outline: none;
   color: #f5f5f7;
-  padding: 14px 16px;
+  padding: 12px;
   background-color: inherit;
   font-family: inherit;
   margin: 0;
@@ -58,6 +58,7 @@
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
 .announcement {
   position: relative;
 
@@ -73,8 +74,6 @@
   font-size: 0.8em;
   margin:10px #1e3932;
   padding: 10px;
- 
-
 }
 
 .announcement > p{
@@ -93,9 +92,26 @@
 .header {
   overflow: hidden;
   background-color: #006241;
-  padding: 20px 10px;
+  padding: 0px;
+  margin: 0px;
+}
+.logo-title {
+  display: flex;
+  align-items: center;
+  padding: 0px;
 }
 
+.logo {
+  width: 12%; 
+  height: auto;
+  margin-right: 15px;
+}
+
+.site-title {
+  color: #f5f5f7;
+  font-size: 2.5em;
+  margin: 0;
+}
 
 .header a {
   
@@ -105,16 +121,13 @@
   text-align: center;
   padding: 12px;
   text-decoration: none;
-  font-size: 18px;
+  font-size: 25px;
   line-height: 25px;
   border-radius: 4px;
 }
 
 
-.header a.logo {
-  font-size: 25px;
-  font-weight: bold;
-}
+
 
 .header-right {
   float: right;
@@ -126,16 +139,14 @@
 }
 
 
-.h1 {
-  margin-top: 20px;
-  text-align: center;
-  color: #1e3932;
-  font-size: 2em;
-}
+
+
+
 p {
   text-align: center;
   color: #006241;
   font-size: 1.2em;
+  padding: 0px 20px;
 }
 
 
