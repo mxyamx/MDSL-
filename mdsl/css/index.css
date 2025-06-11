@@ -226,6 +226,9 @@ p {
     font-size: 0.8rem; 
     line-height: 0.8rem;
   }
+  .end-footer{
+    padding: 1px 0;
+  }
 }
 
 
