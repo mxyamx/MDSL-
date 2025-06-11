@@ -90,11 +90,13 @@ body{
 
 
 .header {
-  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   background-color: #006241;
-  padding: 0;
+  flex-wrap: wrap;
+  padding: 10px 20px;
 }
-
 
 .header a {
   
@@ -116,6 +118,9 @@ body{
 }
 
 .header-right {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
   float: right;
 }
 
