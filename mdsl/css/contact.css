@@ -81,8 +81,9 @@ body {
 }
 
 .header-right > a:hover {
-  background-color: #1e3932;
+  /* background-color: #1e3932; */
   color: #f5f5f7;
+  text-decoration: underline;
 }
 
 h1{
