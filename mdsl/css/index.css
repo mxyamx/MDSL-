@@ -1,5 +1,6 @@
 html, body  {
   font-family: "Gill Sans", sans-serif;
+  background-color: #f5f5f7;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
@@ -242,8 +243,9 @@ p {
   font-size: 1.5rem;
 }
 .image-text-block-vision .text-blk.headingText {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: bold;
+  color: #1e3932;
 }
 .image-text-block-vision .text-blk.subHeadingText {
   font-weight: bold;
